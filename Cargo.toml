@@ -1,5 +1,7 @@
 [package]
 name = "self_service"
+description = "A microservice chassis for HTTP services"
+license = "MIT"
 version = "0.0.0"
 edition = "2021"
 
